@@ -1,5 +1,7 @@
 # Scrolls
 
+> **Note:** This repository is now archived. The latest talks are maintained at https://blog.soumyadeep.in/talks/
+
 Talks, Lectures and Workshops that I have given post 2022.
 
 
